@@ -1,2 +1,2 @@
 # QuizGame
-Simple java quiz game with gui
+Simple javafx quiz game with gui
